@@ -3,7 +3,7 @@ const express = require('express');
 const path = require('path');
 const uuid = require('uuid');
 const app = express();
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 app.get('/', (req, res) => {
