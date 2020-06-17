@@ -39,7 +39,7 @@ node server.js
 
 This is a CLI app that generates the README according to the user's input. The README will be generated in the same folder, right after you are done answering all the questions. You can add more content to your README as you please by opening and editing it. 
 
- ![note-taker gif](./Assets/READMEgenerator.gif)
+ ![note-taker gif](./Assets/Note-taker.gif)
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Jose-lco/undefined/issues)
 
@@ -56,5 +56,5 @@ I used this repository to learn about badges:
 ## Authors
 
 **This project was created by:**
-* Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/readMetoGetMe.svg)](http://hits.dwyl.com/Jose-lco/readMetoGetMe)
+* Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/takeNotesppl.svg)](http://hits.dwyl.com/Jose-lco/takeNotesppl)
   * Contact info: [Linkedin profile](www.linkedin.com/in/josephine-ndungu-a0a441160)
