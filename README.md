@@ -37,7 +37,7 @@ node server.js
 ```
 ## Usage
 
-This is a CLI app that generates the README according to the user's input. The README will be generated in the same folder, right after you are done answering all the questions. You can add more content to your README as you please by opening and editing it. 
+This is an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
  ![note-taker gif](./Assets/Note-taker.gif)
 
